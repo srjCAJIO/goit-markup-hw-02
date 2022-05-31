@@ -1,0 +1,52 @@
+/* основные стили всей страницы*/
+body {
+    font-family: 'Roboto', sans-serif; 
+    color: #757575;
+}
+
+.list {
+    list-style: none;
+}
+
+a {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.71;    
+    letter-spacing: 0.03em;
+    text-decoration: none;
+    color: inherit;
+}
+
+a:hover,
+a:focus {
+    color: #2196F3;
+}
+
+.logo,
+.logo:focus,
+.logo:hover {
+    font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.2;    
+    letter-spacing: 0.03em;
+    color: #000000;
+    text-decoration: none;
+}
+
+footer {
+    background-color: #2F303A;
+}
+
+.white {
+    color: #fff;
+}
+
+.acent {
+    color: #2196F3;
+}
+
+address {
+    font-style: inherit;
+}
