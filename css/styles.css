@@ -205,6 +205,9 @@ body {
 .project {
     border: 1px solid var(--bordercolor);
 }
+.project-img {
+    width:370px;
+}
 .project-name {
     font-weight: 700;
     font-size: 18px;
